@@ -28,10 +28,10 @@ const Calculator: React.FC = () => {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-teal-100 flex-col">
+    <div className="flex items-center justify-center min-h-screen bg-teal-100 flex-col p-10">
       <div>
-        <h2>
-          SPLE <br />
+        <h2 className="text-3xl text-teal-400 italic pb-3">
+          SPLI <br />
           TTER
         </h2>
       </div>
